@@ -2,10 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
-
+* **Name**: SRI MATHI S
+* **Register Number**: 212224230272
+* **Date of Submission**: 08/08/26
 ---
 
 ## Objective
@@ -94,35 +93,38 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ---
 
+
 ## Workflow (Student Explanation)
-
-(Write the steps you followed in your own words)
-
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
-
+```
+Task 1: Launch Your Amazon EC2 Instance
+Task 2: Monitor Your Instance
+Task 3: Update Your Security Group and Access the Web Server
+Task 4: Resize Your Instance: Instance Type and EBS Volume
+Task 5: Explore EC2 Limits
+Task 6: Test Stop Protection
+```
 ---
 
 ## Output Screenshots (Attach 3)
 
 ### Screenshot 1: EC2 Dashboard / Instance List
 
-(Insert Screenshot Here)
+<img width="1609" height="429" alt="image" src="https://github.com/user-attachments/assets/5e336a7b-3cd1-47b4-828e-82ee94cfd803" />
+
 
 ---
 
 ### Screenshot 2: SSH Connection to Instance
 
-(Insert Screenshot Here)
+<img width="1918" height="1004" alt="image" src="https://github.com/user-attachments/assets/d2918c0b-c4da-4b8c-a190-7589c991b675" />
+
 
 ---
 
 ### Screenshot 3: Instance Monitoring / Status
 
-(Insert Screenshot Here)
+<img width="945" height="926" alt="image" src="https://github.com/user-attachments/assets/9727c2a4-84b5-4aa4-ae7d-4e6076fed51e" />
+
 
 ---
 
